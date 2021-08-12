@@ -10,4 +10,4 @@ client.on("ready", () => {
   });
   app.listen(3000);
 });
-client.login("ODcyODY1NDI3NzA4MDUxNDk2.YQwFRw.Ci1I5Vw1lc-Q5qriryMmnuS9wdU");
+client.login("");
